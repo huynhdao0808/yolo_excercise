@@ -12,4 +12,5 @@ is a jupyter notebook  aimed for students to understand the principle of YOLO ag
 * Non-max suppression
 * Load YOLO model
 * Predict 
+
 ![](https://i.imgur.com/QYNe5gl.png)
